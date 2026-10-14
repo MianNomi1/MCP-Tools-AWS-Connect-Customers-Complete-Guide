@@ -1,0 +1,41 @@
+HORIZON BANK - FEES AND CHARGES SCHEDULE
+Document type: Product information
+Note: Horizon Bank is a fictional bank used for training purposes only. All figures are dummy values.
+
+ACCOUNT FEES
+- Everyday Checking monthly maintenance fee: 8 USD (waived with 1,500 USD monthly direct deposits or a 2,000 USD minimum daily balance).
+- Student Checking monthly maintenance fee: none.
+- Paper statements: 2 USD per statement. Electronic statements are free.
+- Account closure within 90 days of opening: 25 USD.
+
+ATM AND CASH FEES
+- Horizon Bank ATMs: free.
+- Other banks' ATMs in the country: 2.50 USD per withdrawal, plus any fee charged by the ATM owner.
+- ATM withdrawals abroad: 5 USD plus 3 percent of the amount.
+- Cash withdrawal at a branch counter: free.
+
+TRANSFER FEES
+- Transfers between your own Horizon Bank accounts: free.
+- Domestic transfers to other banks: free for standard transfers (1 to 2 business days), 15 USD for same-day wire transfers.
+- International wire transfers: 35 USD outgoing, 15 USD incoming.
+
+CARD FEES
+- Replacement debit card (standard delivery): free once per year, then 5 USD.
+- Express card delivery: 20 USD.
+- Foreign transaction fee on card purchases: 3 percent.
+
+OVERDRAFT AND RETURNED PAYMENTS
+- Overdraft fee: 30 USD per item, maximum three fees per day.
+- Returned payment (insufficient funds): 30 USD.
+- Overdraft fees are not charged if the overdraft is less than 50 USD at the end of the business day.
+
+LOAN FEES
+- Personal loan arrangement fee: 1 percent of the loan amount, minimum 100 USD.
+- Late loan payment: 25 USD or 5 percent of the missed payment, whichever is lower.
+- Early repayment of a personal or car loan: no fee.
+- Early repayment of a home loan in the first three years: 1 percent of the amount repaid early.
+
+HOW TO AVOID FEES
+- Switch to electronic statements.
+- Use Horizon Bank ATMs. The Horizon Mobile app has an ATM map.
+- Set up low-balance alerts in the app to avoid overdraft fees.

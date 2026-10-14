@@ -1,0 +1,8 @@
+Text-to-speech / chat messages used in the HorizonBank-SelfService flow.
+Copy each message into the block named on its line. Everything else is spoken by the AI agent.
+
+[Block 6 - Get customer input - Customer prompt or bot initialization - Text-to-speech or chat text] (Welcome)
+Welcome to Horizon Bank. I can help with branches, loans, the mobile app, online banking, accounts, fees and security. How can I help you today?
+
+[Block 10 - Play prompt - Text-to-speech or chat text] (Error)
+Sorry, we are unable to complete your request right now. Please try again later. Goodbye.

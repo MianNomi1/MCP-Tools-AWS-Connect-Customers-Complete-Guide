@@ -1,0 +1,42 @@
+HORIZON BANK - SECURITY AND FRAUD AWARENESS
+Document type: Customer guidance
+Note: Horizon Bank is a fictional bank used for training purposes only.
+
+WHAT HORIZON BANK WILL NEVER ASK YOU FOR
+
+Horizon Bank staff, the virtual assistant and our text messages will never ask you for:
+- Your full online banking password.
+- Your card PIN.
+- A one-time passcode (OTP) that you did not request yourself.
+- Your full card number and security code (CVV) by phone, chat or email.
+- To move money to a "safe account".
+If anyone asks for these, end the conversation. It is a scam, even if the caller ID or email looks like Horizon Bank.
+
+COMMON SCAMS
+
+Impersonation scams: A caller pretends to be from the bank, the police or a government department and says your account is at risk. They pressure you to act quickly. Hang up and call us back on the number printed on the back of your card.
+
+Phishing messages: Emails or text messages with links to fake login pages. Horizon Bank messages never contain links that ask you to log in. Open the app directly instead of clicking links.
+
+Purchase scams: Goods advertised at very low prices on social media, paid for by bank transfer, that never arrive. Pay by card where possible for extra protection.
+
+Investment scams: Promises of guaranteed high returns, often involving cryptocurrency. Horizon Bank does not give investment advice through the virtual assistant.
+
+IF YOU THINK YOU HAVE BEEN SCAMMED
+
+1. Contact Horizon Bank immediately through Customer Support. The sooner we know, the more we can do.
+2. Change your online banking password.
+3. Freeze your card in the Horizon Mobile app under Cards, Freeze Card. Freezing is temporary and can be reversed in the app.
+4. Report the scam to the police.
+
+KEEPING YOUR ACCOUNT SAFE
+
+- Use a unique password of at least 12 characters for online banking.
+- Turn on biometric login in the Horizon Mobile app.
+- Keep your phone's operating system and the Horizon Mobile app up to date.
+- Never install screen-sharing apps at the request of someone who contacted you.
+- Review your transactions regularly and set up spending alerts.
+
+PRIVACY
+
+The virtual assistant does not need your card number, account number, password or PIN to answer questions. Please do not type these into the chat. If you do, the message will be blocked to protect you.

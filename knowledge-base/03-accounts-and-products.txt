@@ -1,0 +1,44 @@
+HORIZON BANK - ACCOUNTS AND PRODUCTS OVERVIEW
+Document type: Product information
+Note: Horizon Bank is a fictional bank used for training purposes only. All figures are dummy values.
+
+1. EVERYDAY CHECKING ACCOUNT
+
+The Everyday Checking account is our standard current account for salaries, bill payments and card spending.
+- Monthly maintenance fee: 8 USD. The fee is waived if you receive at least 1,500 USD in direct deposits per month, or keep a minimum daily balance of 2,000 USD.
+- Includes a contactless debit card, online banking and the Horizon Mobile app.
+- Free withdrawals at all Horizon Bank ATMs.
+- Overdraft protection is optional and must be requested.
+
+2. STUDENT CHECKING ACCOUNT
+
+Available to full-time students aged 18 to 25 with a valid student ID.
+- No monthly maintenance fee.
+- Two free withdrawals per month at other banks' ATMs.
+- The account converts to Everyday Checking automatically at age 26.
+
+3. HIGH-YIELD SAVINGS ACCOUNT
+
+A savings account for building an emergency fund.
+- Interest is calculated daily and paid monthly. The current rate is shown in the app and on the website because it changes with market conditions.
+- Up to six free withdrawals or transfers out per month. Additional withdrawals cost 5 USD each.
+- Minimum opening deposit: 100 USD.
+
+4. FIXED-TERM DEPOSIT (CERTIFICATE OF DEPOSIT)
+
+Lock your money for a fixed term to earn a guaranteed rate.
+- Terms available: 6, 12, 24 and 36 months.
+- Minimum deposit: 1,000 USD.
+- Withdrawing before the end of the term incurs an early withdrawal penalty equal to 90 days of interest.
+
+5. HOW TO OPEN AN ACCOUNT
+
+You can open Everyday Checking, Student Checking and High-Yield Savings in the Horizon Mobile app in about 10 minutes. You will need:
+- A government-issued photo ID (passport or driving licence).
+- Proof of address dated within the last three months (utility bill or bank statement).
+- Your tax identification number.
+Fixed-Term Deposits can be opened in the app or at any branch. Joint accounts and business accounts must be opened at a branch.
+
+6. LOANS
+
+Horizon Bank offers personal loans, car loans and home loans. Loan eligibility depends on your monthly income, existing monthly debt payments and the loan product. See the Loan Products and Eligibility Policy document for details. For an instant indicative eligibility check, ask the virtual assistant.

@@ -1,0 +1,26 @@
+Per-tool "Instructions" for the AI agent (AI agent designer > AI agents > your agent > Tools > edit tool > Instructions).
+Paste the text under each heading into the matching tool.
+
+[list_branch_cities]
+Use when a city has no branch, or when the customer asks which cities have a branch. Read the returned city names as a short spoken list.
+
+[get_branch_status]
+Use for open or closed right now, opening hours, address and services. Requires a city. Report local_time, open_now and reason exactly as returned. If found is false, call list_branch_cities. If a branch status is not ACTIVE, give the reason text.
+
+[get_branch_representatives]
+Use only when the customer asks how many staff or representatives work at a branch. Requires a city. Report tellers, customer service and loan officers per branch, and total_representatives.
+
+[list_loan_products]
+Use to get current interest rates, limits and tenure ranges. Call it before calculate_emi when the customer did not give an interest rate.
+
+[check_loan_eligibility]
+Requires product_type (personal, car or home) and monthly_salary (monthly, never annual). Pass existing_monthly_debt as 0 if the customer has none. Report eligible, reasons and indicative_max_amount, then always read the disclaimer.
+
+[calculate_emi]
+Requires principal, annual_interest_rate and tenure_months. Report monthly_payment, total_repayment and total_interest in words.
+
+[Escalate]
+Use when the customer asks for a person, wants to complain, reports fraud, a scam, or a lost or stolen card, needs details of their own account, or is still stuck after troubleshooting. Tell the customer you are connecting them to a representative before using this tool.
+
+[Complete]
+Use only after the customer confirms they have no further questions. Thank the customer first.

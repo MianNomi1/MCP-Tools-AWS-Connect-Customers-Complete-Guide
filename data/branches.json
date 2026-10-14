@@ -1,0 +1,286 @@
+[
+    {
+        "city": "new york",
+        "branch_id": "NYC-001",
+        "branch_name": "Manhattan Midtown",
+        "address": "350 Fifth Avenue, New York, NY",
+        "timezone": "America/New_York",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-19:00",
+            "friday": "09:00-17:00",
+            "saturday": "10:00-14:00"
+        },
+        "representatives": {
+            "tellers": 6,
+            "customer_service": 4,
+            "loan_officers": 3
+        },
+        "services": [
+            "Instant Card",
+            "Safe deposit boxes",
+            "Foreign currency",
+            "Mortgage specialist"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "new york",
+        "branch_id": "NYC-002",
+        "branch_name": "Brooklyn Heights",
+        "address": "120 Court Street, Brooklyn, NY",
+        "timezone": "America/New_York",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00"
+        },
+        "representatives": {
+            "tellers": 3,
+            "customer_service": 2,
+            "loan_officers": 1
+        },
+        "services": [
+            "Instant Card"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "chicago",
+        "branch_id": "CHI-001",
+        "branch_name": "Chicago Loop",
+        "address": "200 West Madison Street, Chicago, IL",
+        "timezone": "America/Chicago",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00",
+            "saturday": "09:00-13:00"
+        },
+        "representatives": {
+            "tellers": 5,
+            "customer_service": 3,
+            "loan_officers": 2
+        },
+        "services": [
+            "Instant Card",
+            "Safe deposit boxes",
+            "Mortgage specialist"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "houston",
+        "branch_id": "HOU-001",
+        "branch_name": "Houston Downtown",
+        "address": "800 Main Street, Houston, TX",
+        "timezone": "America/Chicago",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "08:30-16:30",
+            "tuesday": "08:30-16:30",
+            "wednesday": "08:30-16:30",
+            "thursday": "08:30-16:30",
+            "friday": "08:30-16:30"
+        },
+        "representatives": {
+            "tellers": 4,
+            "customer_service": 2,
+            "loan_officers": 2
+        },
+        "services": [
+            "Instant Card",
+            "Foreign currency"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "seattle",
+        "branch_id": "SEA-001",
+        "branch_name": "Seattle Pike Place",
+        "address": "1500 First Avenue, Seattle, WA",
+        "timezone": "America/Los_Angeles",
+        "status": "TEMPORARILY_CLOSED",
+        "status_note": "Closed for renovation until 2026-11-30. Please visit the Bellevue branch or use the mobile app.",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00"
+        },
+        "representatives": {
+            "tellers": 0,
+            "customer_service": 0,
+            "loan_officers": 0
+        },
+        "services": [],
+        "closed_dates": []
+    },
+    {
+        "city": "bellevue",
+        "branch_id": "BEL-001",
+        "branch_name": "Bellevue Square",
+        "address": "575 Bellevue Way NE, Bellevue, WA",
+        "timezone": "America/Los_Angeles",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00",
+            "saturday": "10:00-15:00"
+        },
+        "representatives": {
+            "tellers": 4,
+            "customer_service": 3,
+            "loan_officers": 2
+        },
+        "services": [
+            "Instant Card",
+            "Mortgage specialist"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "miami",
+        "branch_id": "MIA-001",
+        "branch_name": "Miami Brickell",
+        "address": "1111 Brickell Avenue, Miami, FL",
+        "timezone": "America/New_York",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-18:00",
+            "saturday": "09:00-13:00"
+        },
+        "representatives": {
+            "tellers": 4,
+            "customer_service": 4,
+            "loan_officers": 2
+        },
+        "services": [
+            "Instant Card",
+            "Foreign currency",
+            "Safe deposit boxes"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "denver",
+        "branch_id": "DEN-001",
+        "branch_name": "Denver Union Station",
+        "address": "1701 Wynkoop Street, Denver, CO",
+        "timezone": "America/Denver",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00"
+        },
+        "representatives": {
+            "tellers": 3,
+            "customer_service": 2,
+            "loan_officers": 1
+        },
+        "services": [
+            "Instant Card"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "boston",
+        "branch_id": "BOS-001",
+        "branch_name": "Boston Back Bay",
+        "address": "500 Boylston Street, Boston, MA",
+        "timezone": "America/New_York",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00"
+        },
+        "representatives": {
+            "tellers": 3,
+            "customer_service": 3,
+            "loan_officers": 2
+        },
+        "services": [
+            "Instant Card",
+            "Mortgage specialist"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    },
+    {
+        "city": "san francisco",
+        "branch_id": "SFO-001",
+        "branch_name": "San Francisco Financial District",
+        "address": "101 California Street, San Francisco, CA",
+        "timezone": "America/Los_Angeles",
+        "status": "ACTIVE",
+        "opening_hours": {
+            "monday": "09:00-17:00",
+            "tuesday": "09:00-17:00",
+            "wednesday": "09:00-17:00",
+            "thursday": "09:00-17:00",
+            "friday": "09:00-17:00",
+            "saturday": "10:00-14:00"
+        },
+        "representatives": {
+            "tellers": 5,
+            "customer_service": 4,
+            "loan_officers": 3
+        },
+        "services": [
+            "Instant Card",
+            "Safe deposit boxes",
+            "Foreign currency",
+            "Mortgage specialist"
+        ],
+        "closed_dates": [
+            "2026-12-25",
+            "2027-01-01"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+HORIZON BANK - ONLINE BANKING AND LOGIN FAQ
+Document type: Customer FAQ
+Applies to: Horizon Online Banking website and Horizon Mobile app
+Note: Horizon Bank is a fictional bank used for training purposes only.
+
+Q: I forgot my password. How do I reset it?
+A: On the login screen, tap "Forgot password". Enter your username and the email address registered with the bank. We send a reset link that is valid for 30 minutes. Choose a new password that is at least 12 characters long and has not been used for your last five passwords. If you no longer have access to your registered email address, visit a branch with a photo ID or call Customer Support.
+
+Q: I forgot my username.
+A: Tap "Forgot username" on the login screen. We send your username to your registered email address. For security reasons we never show the username on screen.
+
+Q: My account is locked after too many attempts. What do I do?
+A: After five failed login attempts, online access is locked for 30 minutes. Wait 30 minutes and try again, or reset your password using "Forgot password", which also unlocks your access. If your access is locked three times in 24 hours, it can only be unlocked by Customer Support or at a branch.
+
+Q: I am not receiving the one-time passcode (OTP).
+A: One-time passcodes are sent by SMS to your registered mobile number and are valid for 5 minutes.
+- Check that your phone has signal and is not in airplane mode.
+- Wait 60 seconds before requesting a new code. Requesting several codes quickly can delay delivery.
+- Make sure you have not blocked short-code messages.
+- If you changed your phone number recently, the new number must be updated at a branch or through Customer Support before codes will arrive.
+Never share a one-time passcode with anyone, including people who say they work for Horizon Bank.
+
+Q: Which web browsers are supported?
+A: The latest two versions of Chrome, Edge, Safari and Firefox. Internet Explorer is not supported. If pages do not load correctly, clear your browser cache and cookies, or try a private browsing window.
+
+Q: How do I register a new phone?
+A: Install Horizon Mobile on the new phone and log in. You will be asked to confirm the new device with a one-time passcode. Only three devices can be registered at the same time. Remove old devices in Profile, Security, Registered Devices.
+
+Q: Why was I logged out automatically?
+A: For your security, online banking logs you out after 10 minutes without activity, and the mobile app logs you out after 5 minutes in the background.
+
+Q: Can I use online banking abroad?
+A: Yes. Some countries are blocked for security reasons. If you are travelling, set a travel notice in Profile, Travel Notices so that card payments and logins from abroad are not flagged as suspicious.

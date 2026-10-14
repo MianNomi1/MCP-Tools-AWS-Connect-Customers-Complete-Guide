@@ -1,0 +1,53 @@
+HORIZON BANK - LOAN PRODUCTS AND ELIGIBILITY POLICY
+Document type: Policy (customer-facing summary)
+Note: Horizon Bank is a fictional bank used for training purposes only.
+
+IMPORTANT: Interest rates, minimum salaries and maximum amounts change regularly. The live figures are held in the bank's loan system and are used by the virtual assistant's eligibility check. This document explains how eligibility works. It does not list current rates.
+
+PART A: LOAN PRODUCTS
+
+Personal Loan
+An unsecured loan for any personal purpose such as home improvements, weddings or consolidating credit card debt. Terms range from 12 to 60 months. No collateral is required.
+
+Car Loan
+A secured loan to buy a new or used car. The car is used as security for the loan. Terms range from 12 to 84 months. Used cars must be less than eight years old at the end of the loan term.
+
+Home Loan (Mortgage)
+A secured loan to buy a home or refinance an existing mortgage. Terms range from 60 to 360 months. A property valuation is required and a deposit of at least 10 percent of the property price is normally expected.
+
+PART B: HOW ELIGIBILITY IS ASSESSED
+
+1. Minimum monthly income
+Each loan product has a minimum gross monthly salary. Applicants below this level are not eligible for that product.
+
+2. Debt-to-income ratio (DTI)
+The debt-to-income ratio is the share of your gross monthly income used to repay debts. It includes the monthly repayment of the new loan plus all existing monthly debt payments (other loans, car finance, minimum credit card payments). Each product has a maximum allowed DTI. For example, if the maximum DTI is 40 percent and your gross monthly salary is 5,000 USD, your total monthly debt repayments including the new loan must not exceed 2,000 USD.
+
+3. Income multiple cap
+Even when the repayment is affordable, the loan amount is capped at a multiple of your monthly salary. This protects customers from borrowing more than they can comfortably manage.
+
+4. Product limits
+Each product has a minimum and a maximum loan amount.
+
+5. Salary ranges
+If a customer gives a salary range (for example "between 4,000 and 5,000 a month"), the indicative check uses the lower end of the range. This is a conservative approach that avoids overstating what the customer can borrow.
+
+PART C: INDICATIVE CHECK VERSUS FINAL APPROVAL
+
+The virtual assistant can give an indicative eligibility result. An indicative result is not a loan offer. Final approval requires a full application, a credit check, and verification of income documents. The final amount and rate may differ.
+
+PART D: DOCUMENTS NEEDED FOR A FULL APPLICATION
+
+- Government-issued photo ID.
+- The last three months of payslips, or the last two years of tax returns for self-employed applicants.
+- The last three months of bank statements if your salary is not paid into a Horizon Bank account.
+- For car loans: the vehicle quote or sales agreement.
+- For home loans: the property sale agreement and details of your deposit.
+
+PART E: HOW TO APPLY
+
+Customers can apply in the Horizon Mobile app under Loans, Apply, or at any branch with a loan officer. Applications are usually decided within 2 business days for personal and car loans and within 10 business days for home loans.
+
+PART F: RESPONSIBLE LENDING
+
+Horizon Bank does not lend to customers who are under 18, who are currently bankrupt, or whose repayments would exceed the maximum debt-to-income ratio. If you are struggling with existing debts, please speak to us before applying. Our customer support team can explain hardship options.

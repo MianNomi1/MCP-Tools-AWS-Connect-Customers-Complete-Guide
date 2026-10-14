@@ -1,0 +1,41 @@
+[
+    {
+        "product_type": "personal",
+        "display_name": "Personal Loan",
+        "currency": "USD",
+        "min_monthly_salary": 2500,
+        "max_dti_ratio": 0.40,
+        "annual_interest_rate": 11.5,
+        "min_tenure_months": 12,
+        "max_tenure_months": 60,
+        "max_salary_multiple": 15,
+        "min_amount": 1000,
+        "max_amount": 50000
+    },
+    {
+        "product_type": "car",
+        "display_name": "Car Loan",
+        "currency": "USD",
+        "min_monthly_salary": 3000,
+        "max_dti_ratio": 0.45,
+        "annual_interest_rate": 7.9,
+        "min_tenure_months": 12,
+        "max_tenure_months": 84,
+        "max_salary_multiple": 20,
+        "min_amount": 5000,
+        "max_amount": 80000
+    },
+    {
+        "product_type": "home",
+        "display_name": "Home Loan",
+        "currency": "USD",
+        "min_monthly_salary": 5000,
+        "max_dti_ratio": 0.43,
+        "annual_interest_rate": 6.5,
+        "min_tenure_months": 60,
+        "max_tenure_months": 360,
+        "max_salary_multiple": 90,
+        "min_amount": 50000,
+        "max_amount": 750000
+    }
+]

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+infra/node_modules/
+infra/cdk.out
+infra/outputs.json
+infra/*.js
+infra/!jest.config.js
+infra/*.d.ts
+infra/cdk.staging

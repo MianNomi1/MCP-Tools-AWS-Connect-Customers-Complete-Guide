@@ -1,0 +1,62 @@
+HORIZON BANK - MOBILE APP TROUBLESHOOTING GUIDE
+Document type: Customer FAQ
+Applies to: Horizon Mobile app for iOS and Android
+Note: Horizon Bank is a fictional bank used for training purposes only.
+
+SECTION 1: THE APP IS NOT WORKING OR WILL NOT OPEN
+
+If the Horizon Mobile app does not open, freezes on the splash screen, or shows a blank white screen, follow these steps in order. Most problems are solved by step 3.
+
+Step 1. Close the app completely. On iPhone, swipe up from the bottom of the screen and pause, then swipe the Horizon Mobile card upwards to close it. On Android, open the recent apps view and swipe the Horizon Mobile card away, or go to Settings, Apps, Horizon Mobile and tap Force Stop.
+
+Step 2. Wait at least 10 seconds, then open the app again.
+
+Step 3. Restart your phone. Hold the power button and choose Restart (Android) or Slide to power off (iPhone). Turn the phone back on and open the app.
+
+Step 4. Check that you are using the latest version. Open the App Store or Google Play, search for Horizon Mobile and tap Update if the button is shown. Versions older than 6.0 are no longer supported and will not log in.
+
+Step 5. Check your operating system. Horizon Mobile requires iOS 16 or later, or Android 10 or later.
+
+Step 6. Clear the app cache (Android only). Go to Settings, Apps, Horizon Mobile, Storage, then tap Clear Cache. Do not tap Clear Data unless you are prepared to set up the app again.
+
+Step 7. Reinstall the app. Delete the app, restart your phone, then download Horizon Mobile again from the official App Store or Google Play listing. Your accounts are not affected when you delete the app, but you will need to register the device again.
+
+If the app still does not work after all seven steps, contact Customer Support. Tell the agent which steps you already tried, the app version, and your phone model so they can help you faster.
+
+SECTION 2: "NO CONNECTION" OR "SOMETHING WENT WRONG" MESSAGES
+
+These messages usually mean the app cannot reach our servers.
+
+- Switch between Wi-Fi and mobile data to see if the problem follows the network.
+- Turn off any VPN or ad-blocking app. Some VPNs route traffic through countries where our service is blocked for security reasons.
+- Public Wi-Fi in hotels and airports sometimes requires you to accept terms in a browser first. Open a web browser, accept the terms, then return to the app.
+- Check the Horizon Bank service status page at status.horizonbank.example. Planned maintenance happens every Sunday between 01:00 and 03:00 Eastern Time. During maintenance, the app may show "Service temporarily unavailable".
+
+SECTION 3: THE APP CRASHES WHEN I OPEN A SPECIFIC SCREEN
+
+If the app closes suddenly when you open statements, transfers or settings:
+
+- Update the app to the latest version. Crash fixes are released every two weeks.
+- Make sure your phone has at least 500 MB of free storage. The app needs space to download statements.
+- If the crash only happens when downloading statements, try opening the statement on the website instead and report the problem to support.
+
+SECTION 4: NOTIFICATIONS ARE NOT ARRIVING
+
+- Open phone Settings, Notifications, Horizon Mobile and make sure notifications are allowed.
+- In the app, open Profile, Notification Preferences and check that the alerts you want are switched on.
+- Battery saver modes on Android can stop notifications. Add Horizon Mobile to the list of apps that are never put to sleep.
+- Notifications can take up to 15 minutes to arrive during busy periods.
+
+SECTION 5: FACE ID, TOUCH ID OR FINGERPRINT LOGIN IS NOT WORKING
+
+- Biometric login turns itself off after you change the fingerprints or face registered on your phone. This is a security feature. Log in with your password, then switch biometric login back on in Profile, Security.
+- Biometric login is also turned off after five failed attempts in a row.
+
+SECTION 6: WHEN TO CONTACT SUPPORT
+
+Contact Customer Support if:
+- You completed every step in Section 1 and the app still does not work.
+- You see a message containing an error code that starts with HB- (for example HB-4031).
+- You think someone else has accessed your app.
+
+Our team will never ask for your full password, your PIN, or a one-time passcode during a troubleshooting call.
